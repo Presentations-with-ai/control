@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+_bot_trash/
+*.pyc
+*.session
+*.session-journal
+pc_relay_downloads/

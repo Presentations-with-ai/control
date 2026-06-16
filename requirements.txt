@@ -1,0 +1,9 @@
+python-telegram-bot==21.6
+Telethon==1.36.0
+python-dotenv==1.0.1
+mss==9.0.2
+psutil==5.9.8
+pyautogui==0.9.54
+pillow==10.4.0
+pyperclip==1.9.0
+Send2Trash==1.8.3

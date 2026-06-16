@@ -1,0 +1,69 @@
+/help — список команд
+/screen — скриншот
+/off — выключить ПК
+/restart — перезагрузить ПК
+/open_url — открыть сайт
+/open_app — открыть приложение
+/run_file — запустить файл по пути через PowerShell
+/beep — короткий звук
+/boot_time — когда включён ПК
+/chrome — открыть Chrome
+/close_app — закрыть программу
+/minimize_all — свернуть все окна
+/copy_file — копировать файл
+/create_folder — создать папку
+/list — список папки
+/search_chrome — поиск в Chrome
+/ip — IP
+/lock — заблокировать экран
+/message — сообщение на экране
+/move_file — переместить файл
+/mute — mute
+/volup — звук громче
+/voldown — звук тише
+/network_info — информация о сети
+/rename_file — переименовать
+/send_file — отправить файл с ПК в Telegram
+/save_file — сохранить файл из Telegram на ПК
+/delete_file — удалить файл по пути в корзину
+/mouse_pos — позиция мыши
+/mouse_move — переместить мышь
+/mouse_click — левый клик
+/mouse_right — правый клик
+/mouse_double — двойной клик
+/mouse_scroll — скролл
+/grid — скрин с сеткой
+/move_cell — курсор в клетку
+/click_cell — клик по клетке
+/double_cell — двойной клик по клетке
+/fine — увеличить область
+/click_fine — точный клик по цепочке
+/move_fine — точно переместить курсор
+/double_fine — точный двойной клик
+/click_here — клик здесь
+/double_here — двойной клик здесь
+/left — курсор влево
+/right — курсор вправо
+/up — курсор вверх
+/down — курсор вниз
+/type — вставить текст
+/type_enter — вставить текст и Enter
+/enter — Enter
+/backspace — Backspace
+/ctrl_a — Ctrl+A
+/key — нажать клавишу
+/hotkey — комбинация клавиш
+/key_down — зажать клавишу
+/key_up — отпустить клавишу
+/esc — Esc
+/tab — Tab
+/space — Space
+/alt_tab — Alt+Tab
+/ctrl_c — Ctrl+C
+/ctrl_v — Ctrl+V
+/ctrl_x — Ctrl+X
+/ctrl_z — Ctrl+Z
+/ctrl_s — Ctrl+S
+/ctrl_f — Ctrl+F
+/ctrl_l — Ctrl+L
+/f5 — F5
